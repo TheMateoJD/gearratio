@@ -1,0 +1,39 @@
+.name-ratios {
+  width: 20lvw;
+}
+
+.preset {
+  position: relative;
+  width: 20lvw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.transbtn {
+  margin: 1rem 0 0 0;
+  padding: 0.5rem;
+  width: 10rem;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  background-color: white;
+  border: none;
+  border-radius: 0.5rem;
+}
+
+.test {
+  position: absolute;
+  background-color: whitesmoke;
+  font-size: 1.5rem;
+  top: 100%;
+  width: 10rem;
+  left: 50%;
+  transform: translate(-50%);
+  border-radius: 0.5rem;
+}
+.test2 {
+  border: 2px solid rgb(239, 239, 239);
+  border-radius: 0.5rem;
+  text-transform: uppercase;
+  padding: 0.25rem;
+}
